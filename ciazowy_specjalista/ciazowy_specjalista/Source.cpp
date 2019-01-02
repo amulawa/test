@@ -2,6 +2,8 @@
 #include<cmath>
 using namespace std;
 
+dupa
+
 int main()
 {
 	float n, x, wiek, czas, ile;
